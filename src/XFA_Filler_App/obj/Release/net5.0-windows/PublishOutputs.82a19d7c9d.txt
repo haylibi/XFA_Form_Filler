@@ -1,0 +1,15 @@
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.exe
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.deps.json
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.runtimeconfig.json
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.pdb
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\Aspose.PDF.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\Newtonsoft.Json.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\System.Drawing.Common.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

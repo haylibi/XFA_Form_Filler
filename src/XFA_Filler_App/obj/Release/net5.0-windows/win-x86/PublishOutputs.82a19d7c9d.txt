@@ -1,0 +1,11 @@
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.pdb
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\clrcompression.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\clrjit.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\coreclr.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\mscordaccore.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\D3DCompiler_47_cor3.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\PenImc_cor3.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\PresentationNative_cor3.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\vcruntime140_cor3.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\wpfgfx_cor3.dll
+C:\Users\Duarte\Desktop\New folder\script\C#\Build\XFA_Filler_App.exe
